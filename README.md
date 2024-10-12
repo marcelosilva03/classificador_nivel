@@ -6,6 +6,6 @@ Foi feito um projeto em node.js utilizando a linguagem de programação Javascri
 
 ## Linguagens Utilizadas
 
- :bangbang: utilizada as seguintes linguagens: Javascript, Node.js e Python.
+ :bangbang: utilizada as seguintes linguagens: :yellow_circle: Javascript,:green_circle: Node.js e :large_blue_circle: Python.
 
 # Marcelo Silva
