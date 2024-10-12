@@ -6,7 +6,6 @@ Foi feito um projeto em node.js utilizando a linguagem de programação Javascri
 
 ## Linguagens Utilizadas
 
-
-@DIO :on: utilizada as seguintes linguagens: Javascript, Node.js e Python.
+ :on: utilizada as seguintes linguagens: Javascript, Node.js e Python.
 
 # Marcelo Silva
